@@ -2,9 +2,11 @@
 def chinese_zodiacs():
     basta = "oo" 
     while basta == "oo":
+        # Ito po ay humihingi ang taon ng kapanganakan ng user
         year = int(input("Ilagay ang iyong taon ng kapanganakan: "))
         if year < 1900:
-            print("\nHindi wastong taon, dapat ay mas maaga sa 1900\n")
+            print("\nHindi wastong taon, dapat ay mas maaga sa 1900.\n")
+         # Tinutukoy ang Chinese zodiac sign gamit ang remainder ng taon kapag hinati sa 12
         elif year % 12 == 0:
             print("\nYour Chinese zodiac sign is Monkey")
             print("Lucky Colors: White, blue, and gold.") 
