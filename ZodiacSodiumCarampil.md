@@ -38,4 +38,4 @@ This program determines the Chinese Zodiac sign based on the user's birth year.
 
 ### Kapag wasto ang taong inilagay
 
-![Output](screenshots/ouput.png)
+![Output](screenshots/output.png)
