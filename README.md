@@ -1,4 +1,4 @@
-# chinese-zodiac
+# CS3-CARAMPIL
 
 Repository for Computer Science 3
 
