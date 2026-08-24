@@ -4,4 +4,4 @@ Repository for Computer Science 3
 
 [Zodiac Section Activity](./ZodiacSodiumCarampil.md)
 
-[ctskillsSodiumTeamName](./ctskillsSodiumTeamCarampilBaylonZozobrado.md)
+[ctskillsSodiumTeamName](./ctskills/ctskillsSodiumTeamCarampilBaylonZozobrado.md)
